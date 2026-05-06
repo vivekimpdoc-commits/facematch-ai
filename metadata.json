@@ -1,0 +1,7 @@
+{
+  "name": "FaceMatch AI",
+  "description": "High-performance face matching application. Upload a target face and search through thousands of images to find matches using advanced facial descriptors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
